@@ -78,12 +78,8 @@ streamlit run diseasepred.py
 
 ## 🧑‍💻 Author
 Akshada Mane
-📧 makshada200$@gmail.com
 
-📜 License
-This project is open-source and available under the MIT License.
-
-🌟 Show your support
+### 🌟 Show your support
 If you like this project, give it a ⭐ on GitHub and share it with others!
 
 ---
