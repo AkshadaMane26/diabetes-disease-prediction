@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environment variables and settings
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit logs/cache
+.streamlit/
+logs/
+cache/
+
+# VSCode project settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Model files (optional)
+*.pkl
+
+# PyInstaller
+*.spec
+
+# Coverage reports
+coverage.xml
+htmlcov/
+
+# Testing
+.pytest_cache/
+nosetests.xml
+
+# Other temporary files
+*.log
+*.tmp
