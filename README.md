@@ -72,8 +72,9 @@ streamlit run diseasepred.py
 | Diabetes Pedigree Function | 0.627                 | 0.351                     |
 | Age                        | 50                    | 31                        |
 
-## Output
-<img src='data\diabetic.png'width=50% />
+## 🖼️ Output
+![Diabetes Prediction Output](data/diabetic.png)
+
 
 ## 🧑‍💻 Author
 Akshada Mane
