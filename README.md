@@ -76,11 +76,6 @@ streamlit run diseasepred.py
 ![Diabetes Prediction Output](data/diabetic.png)
 
 
-## 🧑‍💻 Author
-Akshada Mane
-
-### 🌟 Show your support
-If you like this project, give it a ⭐ on GitHub and share it with others!
 
 ---
 
